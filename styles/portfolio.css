@@ -148,7 +148,7 @@ main section {
 .about {
     padding: 130px;
     border-radius: 10px;
-    background: rgb(174, 130, 152);
+    background: #fff8f3;
     margin: 130px;
 }
 
@@ -203,7 +203,7 @@ footer {
     width: 50%;
 }
 
-.social-links a{
+.social-links a {
     margin-right: 25px;
 }
 
